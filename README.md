@@ -1,8 +1,8 @@
-Concepts used:
+<b>Concepts used:</b> <br>
 1)Data structures like 2D arrays
 2)Handling Classes and Object creations
-3)Java Swing and Java AWT for creating a user-friendly GUI
-Features of the game:
+3)Java Swing and Java AWT for creating a user-friendly GUI<br>
+<b>  Features of the game:</b><br>
 1)Use the left, and right keys to move the paddle left and right
 2}The current score is updated every time the ball hits the brick and displayed
 3}Game over if the ball does not hit the paddle and goes out of the border
